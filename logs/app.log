@@ -1,0 +1,275 @@
+2024-06-25 14:55:55,497 - root - INFO - Logging configured.
+2024-06-25 14:55:55,497 - root - INFO - Environment variables loaded.
+2024-06-25 14:55:55,507 - root - INFO - Logging configured.
+2024-06-25 14:55:55,507 - root - INFO - Environment variables loaded.
+2024-06-25 14:55:55,510 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 14:55:55,510 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 14:55:55,510 - root - INFO - Application exit.
+2024-06-25 14:55:55,510 - root - INFO - Application shutdown.
+2024-06-25 14:55:55,516 - root - INFO - Logging configured.
+2024-06-25 14:55:55,517 - root - INFO - Environment variables loaded.
+2024-06-25 14:55:55,517 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 14:55:55,518 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 14:55:55,518 - root - INFO - Application exit.
+2024-06-25 14:55:55,518 - root - INFO - Application shutdown.
+2024-06-25 14:55:55,524 - root - INFO - Logging configured.
+2024-06-25 14:55:55,525 - root - INFO - Environment variables loaded.
+2024-06-25 14:55:55,525 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 14:55:55,525 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 14:55:55,525 - root - INFO - Hello, World!
+2024-06-25 14:55:55,525 - root - INFO - Application exit.
+2024-06-25 14:55:55,526 - root - INFO - Application shutdown.
+2024-06-25 14:57:16,178 - root - INFO - Logging configured.
+2024-06-25 14:57:16,179 - root - INFO - Environment variables loaded.
+2024-06-25 14:57:16,179 - root - INFO - Logging configured.
+2024-06-25 14:57:16,179 - root - INFO - Environment variables loaded.
+2024-06-25 14:57:16,187 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 14:57:16,187 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 14:57:16,187 - root - INFO - Application exit.
+2024-06-25 14:57:16,187 - root - INFO - Application shutdown.
+2024-06-25 14:57:16,188 - root - INFO - Logging configured.
+2024-06-25 14:57:16,194 - root - INFO - Environment variables loaded.
+2024-06-25 14:57:16,195 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 14:57:16,195 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 14:57:16,195 - root - INFO - Application exit.
+2024-06-25 14:57:16,195 - root - INFO - Application shutdown.
+2024-06-25 14:57:16,200 - root - INFO - Logging configured.
+2024-06-25 14:57:16,200 - root - INFO - Environment variables loaded.
+2024-06-25 14:57:16,200 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 14:57:16,200 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 14:57:16,200 - root - INFO - Hello, World!
+2024-06-25 14:57:16,200 - root - INFO - Application exit.
+2024-06-25 14:57:16,200 - root - INFO - Application shutdown.
+2024-06-25 15:06:07,227 - root - INFO - Logging configured.
+2024-06-25 15:06:07,243 - root - INFO - Environment variables loaded.
+2024-06-25 15:06:07,248 - root - INFO - Logging configured.
+2024-06-25 15:06:07,249 - root - INFO - Environment variables loaded.
+2024-06-25 15:06:07,251 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:06:07,251 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:06:07,251 - root - INFO - Application exit.
+2024-06-25 15:06:07,251 - root - INFO - Application shutdown.
+2024-06-25 15:06:07,255 - root - INFO - Logging configured.
+2024-06-25 15:06:07,255 - root - INFO - Environment variables loaded.
+2024-06-25 15:06:07,256 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:06:07,256 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:06:07,256 - root - INFO - Application exit.
+2024-06-25 15:06:07,256 - root - INFO - Application shutdown.
+2024-06-25 15:06:07,259 - root - INFO - Logging configured.
+2024-06-25 15:06:07,260 - root - INFO - Environment variables loaded.
+2024-06-25 15:06:07,260 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:06:07,260 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:06:07,261 - root - INFO - Hello, World!
+2024-06-25 15:06:07,261 - root - INFO - Application exit.
+2024-06-25 15:06:07,261 - root - INFO - Application shutdown.
+2024-06-25 15:11:51,816 - root - INFO - Logging configured.
+2024-06-25 15:11:51,816 - root - INFO - Environment variables loaded.
+2024-06-25 15:11:51,820 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:11:51,820 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:14:32,250 - root - INFO - Hello, World!
+2024-06-25 15:14:39,516 - root - INFO - Application exit.
+2024-06-25 15:14:39,516 - root - INFO - Application shutdown.
+2024-06-25 15:24:01,613 - root - INFO - Logging configured.
+2024-06-25 15:24:01,613 - root - INFO - Environment variables loaded.
+2024-06-25 15:24:01,623 - root - INFO - Logging configured.
+2024-06-25 15:24:01,623 - root - INFO - Environment variables loaded.
+2024-06-25 15:24:01,626 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:24:01,626 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:24:01,626 - root - INFO - Application exit.
+2024-06-25 15:24:01,626 - root - INFO - Application shutdown.
+2024-06-25 15:24:01,630 - root - INFO - Logging configured.
+2024-06-25 15:24:01,631 - root - INFO - Environment variables loaded.
+2024-06-25 15:24:01,631 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:24:01,631 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:24:01,631 - root - INFO - Application exit.
+2024-06-25 15:24:01,631 - root - INFO - Application shutdown.
+2024-06-25 15:24:01,636 - root - INFO - Logging configured.
+2024-06-25 15:24:01,637 - root - INFO - Environment variables loaded.
+2024-06-25 15:24:01,637 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:24:01,638 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:24:01,638 - root - INFO - Hello, World!
+2024-06-25 15:24:01,638 - root - INFO - Application exit.
+2024-06-25 15:24:01,638 - root - INFO - Application shutdown.
+2024-06-25 15:24:57,378 - root - INFO - Logging configured.
+2024-06-25 15:24:57,378 - root - INFO - Environment variables loaded.
+2024-06-25 15:24:57,378 - root - INFO - Logging configured.
+2024-06-25 15:24:57,378 - root - INFO - Environment variables loaded.
+2024-06-25 15:24:57,378 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:24:57,378 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:24:57,378 - root - INFO - Application exit.
+2024-06-25 15:24:57,378 - root - INFO - Application shutdown.
+2024-06-25 15:24:57,391 - root - INFO - Logging configured.
+2024-06-25 15:24:57,394 - root - INFO - Environment variables loaded.
+2024-06-25 15:24:57,394 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:24:57,394 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:24:57,394 - root - INFO - Application exit.
+2024-06-25 15:24:57,394 - root - INFO - Application shutdown.
+2024-06-25 15:24:57,400 - root - INFO - Logging configured.
+2024-06-25 15:24:57,400 - root - INFO - Environment variables loaded.
+2024-06-25 15:24:57,400 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:24:57,401 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:24:57,401 - root - INFO - Hello, World!
+2024-06-25 15:24:57,401 - root - INFO - Application exit.
+2024-06-25 15:24:57,401 - root - INFO - Application shutdown.
+2024-06-25 15:35:48,520 - root - INFO - Logging configured.
+2024-06-25 15:35:48,520 - root - INFO - Environment variables loaded.
+2024-06-25 15:35:48,537 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:35:48,538 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:35:52,417 - root - INFO - Hello, World!
+2024-06-25 15:37:41,382 - root - INFO - Hello, World!
+2024-06-25 15:38:38,780 - root - INFO - Hello, World!
+2024-06-25 15:38:41,604 - root - INFO - Application exit.
+2024-06-25 15:38:41,604 - root - INFO - Application shutdown.
+2024-06-25 15:39:30,359 - root - INFO - Logging configured.
+2024-06-25 15:39:30,359 - root - INFO - Environment variables loaded.
+2024-06-25 15:39:30,375 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:39:30,375 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:40:02,506 - root - INFO - Application exit.
+2024-06-25 15:40:02,506 - root - INFO - Application shutdown.
+2024-06-25 15:40:54,252 - root - INFO - Logging configured.
+2024-06-25 15:40:54,252 - root - INFO - Environment variables loaded.
+2024-06-25 15:40:54,252 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:40:54,252 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:41:39,621 - root - INFO - Application exit.
+2024-06-25 15:41:39,621 - root - INFO - Application shutdown.
+2024-06-25 15:41:48,571 - root - INFO - Logging configured.
+2024-06-25 15:41:48,571 - root - INFO - Environment variables loaded.
+2024-06-25 15:41:48,582 - root - INFO - Logging configured.
+2024-06-25 15:41:48,583 - root - INFO - Environment variables loaded.
+2024-06-25 15:41:48,585 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:41:48,585 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:41:48,585 - root - INFO - Application exit.
+2024-06-25 15:41:48,586 - root - INFO - Application shutdown.
+2024-06-25 15:41:48,588 - root - INFO - Logging configured.
+2024-06-25 15:41:48,588 - root - INFO - Environment variables loaded.
+2024-06-25 15:41:48,594 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:41:48,594 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:41:48,594 - root - INFO - Application exit.
+2024-06-25 15:41:48,594 - root - INFO - Application shutdown.
+2024-06-25 15:41:48,596 - root - INFO - Logging configured.
+2024-06-25 15:41:48,596 - root - INFO - Environment variables loaded.
+2024-06-25 15:41:48,596 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:41:48,596 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:41:48,596 - root - INFO - Application exit.
+2024-06-25 15:41:48,596 - root - INFO - Application shutdown.
+2024-06-25 15:45:28,955 - root - INFO - Logging configured.
+2024-06-25 15:45:28,955 - root - INFO - Environment variables loaded.
+2024-06-25 15:45:28,955 - root - INFO - Logging configured.
+2024-06-25 15:45:28,955 - root - INFO - Environment variables loaded.
+2024-06-25 15:45:28,955 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:45:28,955 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:45:28,955 - root - INFO - Application exit.
+2024-06-25 15:45:28,955 - root - INFO - Application shutdown.
+2024-06-25 15:45:28,970 - root - INFO - Logging configured.
+2024-06-25 15:45:28,971 - root - INFO - Environment variables loaded.
+2024-06-25 15:45:28,971 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:45:28,971 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:45:28,971 - root - INFO - Application exit.
+2024-06-25 15:45:28,971 - root - INFO - Application shutdown.
+2024-06-25 15:45:28,977 - root - INFO - Logging configured.
+2024-06-25 15:45:28,977 - root - INFO - Environment variables loaded.
+2024-06-25 15:45:28,978 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:45:28,978 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:45:28,978 - root - INFO - Application exit.
+2024-06-25 15:45:28,978 - root - INFO - Application shutdown.
+2024-06-25 15:46:02,584 - root - INFO - Logging configured.
+2024-06-25 15:46:02,584 - root - INFO - Environment variables loaded.
+2024-06-25 15:46:02,588 - root - INFO - Logging configured.
+2024-06-25 15:46:02,589 - root - INFO - Environment variables loaded.
+2024-06-25 15:46:02,591 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:46:02,591 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:46:02,591 - root - INFO - Application exit.
+2024-06-25 15:46:02,591 - root - INFO - Application shutdown.
+2024-06-25 15:46:02,596 - root - INFO - Logging configured.
+2024-06-25 15:46:02,596 - root - INFO - Environment variables loaded.
+2024-06-25 15:46:02,599 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:46:02,599 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:46:02,600 - root - INFO - Application exit.
+2024-06-25 15:46:02,600 - root - INFO - Application shutdown.
+2024-06-25 15:46:02,604 - root - INFO - Logging configured.
+2024-06-25 15:46:02,605 - root - INFO - Environment variables loaded.
+2024-06-25 15:46:02,606 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:46:02,606 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:46:02,606 - root - INFO - Application exit.
+2024-06-25 15:46:02,607 - root - INFO - Application shutdown.
+2024-06-25 15:46:58,657 - root - INFO - Logging configured.
+2024-06-25 15:46:58,657 - root - INFO - Environment variables loaded.
+2024-06-25 15:46:58,663 - root - INFO - Logging configured.
+2024-06-25 15:46:58,664 - root - INFO - Environment variables loaded.
+2024-06-25 15:46:58,666 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:46:58,666 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:46:58,666 - root - INFO - Application exit.
+2024-06-25 15:46:58,666 - root - INFO - Application shutdown.
+2024-06-25 15:46:58,669 - root - INFO - Logging configured.
+2024-06-25 15:46:58,669 - root - INFO - Environment variables loaded.
+2024-06-25 15:46:58,669 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:46:58,669 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:46:58,669 - root - INFO - Application exit.
+2024-06-25 15:46:58,669 - root - INFO - Application shutdown.
+2024-06-25 15:46:58,684 - root - INFO - Logging configured.
+2024-06-25 15:46:58,684 - root - INFO - Environment variables loaded.
+2024-06-25 15:46:58,684 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:46:58,686 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:46:58,686 - root - INFO - Application exit.
+2024-06-25 15:46:58,686 - root - INFO - Application shutdown.
+2024-06-25 15:47:17,079 - root - INFO - Logging configured.
+2024-06-25 15:47:17,081 - root - INFO - Environment variables loaded.
+2024-06-25 15:47:17,086 - root - INFO - Logging configured.
+2024-06-25 15:47:17,086 - root - INFO - Environment variables loaded.
+2024-06-25 15:47:17,088 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:47:17,089 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:47:17,089 - root - INFO - Application exit.
+2024-06-25 15:47:17,089 - root - INFO - Application shutdown.
+2024-06-25 15:47:17,094 - root - INFO - Logging configured.
+2024-06-25 15:47:17,095 - root - INFO - Environment variables loaded.
+2024-06-25 15:47:17,096 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:47:17,096 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:47:17,096 - root - INFO - Application exit.
+2024-06-25 15:47:17,097 - root - INFO - Application shutdown.
+2024-06-25 15:47:17,101 - root - INFO - Logging configured.
+2024-06-25 15:47:17,102 - root - INFO - Environment variables loaded.
+2024-06-25 15:47:17,103 - root - ERROR - Error importing plugin greet: No module named 'icecream'
+2024-06-25 15:47:17,104 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:47:17,104 - root - INFO - Application exit.
+2024-06-25 15:47:17,104 - root - INFO - Application shutdown.
+2024-06-25 15:48:55,582 - root - INFO - Logging configured.
+2024-06-25 15:48:55,582 - root - INFO - Environment variables loaded.
+2024-06-25 15:48:55,582 - root - INFO - Logging configured.
+2024-06-25 15:48:55,582 - root - INFO - Environment variables loaded.
+2024-06-25 15:48:55,582 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:48:55,582 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:48:55,582 - root - INFO - Application exit.
+2024-06-25 15:48:55,582 - root - INFO - Application shutdown.
+2024-06-25 15:48:55,598 - root - INFO - Logging configured.
+2024-06-25 15:48:55,598 - root - INFO - Environment variables loaded.
+2024-06-25 15:48:55,599 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:48:55,600 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:48:55,600 - root - INFO - Application exit.
+2024-06-25 15:48:55,600 - root - INFO - Application shutdown.
+2024-06-25 15:48:55,604 - root - INFO - Logging configured.
+2024-06-25 15:48:55,604 - root - INFO - Environment variables loaded.
+2024-06-25 15:48:55,604 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:48:55,605 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:48:55,605 - root - INFO - Hello, World!
+2024-06-25 15:48:55,605 - root - INFO - Application exit.
+2024-06-25 15:48:55,605 - root - INFO - Application shutdown.
+2024-06-25 15:49:02,049 - root - INFO - Logging configured.
+2024-06-25 15:49:02,050 - root - INFO - Environment variables loaded.
+2024-06-25 15:49:02,054 - root - INFO - Logging configured.
+2024-06-25 15:49:02,054 - root - INFO - Environment variables loaded.
+2024-06-25 15:49:02,060 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:49:02,060 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:49:02,060 - root - INFO - Application exit.
+2024-06-25 15:49:02,060 - root - INFO - Application shutdown.
+2024-06-25 15:49:02,065 - root - INFO - Logging configured.
+2024-06-25 15:49:02,066 - root - INFO - Environment variables loaded.
+2024-06-25 15:49:02,067 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:49:02,067 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:49:02,067 - root - INFO - Application exit.
+2024-06-25 15:49:02,067 - root - INFO - Application shutdown.
+2024-06-25 15:49:02,070 - root - INFO - Logging configured.
+2024-06-25 15:49:02,071 - root - INFO - Environment variables loaded.
+2024-06-25 15:49:02,071 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-06-25 15:49:02,072 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-25 15:49:02,072 - root - INFO - Hello, World!
+2024-06-25 15:49:02,072 - root - INFO - Application exit.
+2024-06-25 15:49:02,072 - root - INFO - Application shutdown.
